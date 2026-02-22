@@ -1,0 +1,15 @@
+target/
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+### IDE ###
+.idea/
+.vscode/
+.oca
+*.iml
+
+### OS ###
+.DS_Store
+
+### Logs ###
+*.log
